@@ -1,0 +1,38 @@
+    <section class="MySites" id="MySites">
+        <h2 class="title">MySites</h2>
+            <div class="content">
+                <div class="MySitesCard">
+                    <div sr="MySitesimg">
+                      <img src="ayoubbens.png"> 
+
+                      <div class="MySitesinfo" style="text-align: right;">
+                        <p class="MySites-category"></p><br>
+                    <strong class="MySitesTitle">
+                        <span>???? ??????? ????? ??</span>
+                        <a href="https://ayoubbens.github.io/AyoubDev/" class="Trynow">????</a>
+
+                    </strong>
+                    </div>
+                  </div> 
+           </div>
+
+    </section>
+    <section class="MySites" id="MySites">
+        <h2 class="title">MySites</h2>
+            <div class="content">
+                <div class="MySitesCard">
+                    <div sr="MySitesimg">
+                      <img src="Calculator.png"> 
+
+                      <div class="MySitesinfo" style="text-align: right;">
+                        <p class="MySites-category"></p><br>
+                    <strong class="MySitesTitle">
+                        <span>My introduction site</span>
+                        <a href="https://ayoubbens.github.io/AyoubDev/" class="Trynow ">browse</a>
+
+                    </strong>
+                    </div>
+                  </div> 
+           </div>
+
+    </section>
